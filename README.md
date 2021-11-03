@@ -1,1 +1,2 @@
 # coding-practice
+This project is to track number of coding challenges solved either from LeetCode, Hackerank or GeeksForGeeks. Each challenge should follow coding best practices and should be a production grade code. Also, consider each challenge as an individual project or a feature of a project and include readme files and all the instruction (if required) on how to execute the project.
